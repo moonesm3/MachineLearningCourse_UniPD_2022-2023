@@ -1,0 +1,1 @@
+In the recommendation systems, we have one concept to measure explicit feedback with Pearson correlation. So this activity is about this part! You can see some examples of it with different libraries.

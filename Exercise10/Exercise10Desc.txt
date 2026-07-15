@@ -1,0 +1,1 @@
+Linear Regression model and working with data on TITANIK dataset
